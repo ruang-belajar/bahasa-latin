@@ -1,7 +1,12 @@
-# Learn Latin
+# Ruang Belajar Latin
 
-My notes on learning Latin. It consist of list of word declension for memorizing and some practice text.
+Repositori ini adalah catatan pribadi saya dalam mempelajari bahasa Latin.
+
+Anda bisa berkontribusi menambahkan entry pada repositori ini. Yang Anda bisa lakukan:
+- Menambahkan daftar kata pada [vocabulary](docs/vocabulary.md)
+- Menambahkan entry _Text Latihan_ [@ docs/README.md](docs/README.md)
+- Berbagi link resource e-book [@ docs/README.md](docs/README.md)
 
 <p align=center>
-  <a href="https://pujangga123.github.io/learn-latin">📚 START 📚</a>
+  <a href="https://pujangga123.github.io/ruang-belajar-latin"><b>📚 MULAI 📚</b></a>
 </p>
