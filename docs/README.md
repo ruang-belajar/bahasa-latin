@@ -1,4 +1,5 @@
-- [Vocabulary](vocabulary.md)
+## Vocabulary
+- [Noun](noun.md)
 
 ## Text Latihan
 - [Nicene Creed](text/necene-creed.md)
