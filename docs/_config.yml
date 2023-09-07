@@ -1,0 +1,10 @@
+title: Ruang Belajar - Bahasa Latin
+description: Repositori catatan belajar Bahasa Latin
+domain: pujangga123.github.io
+url: http://pujangga123.github.io/ruang-belajar-latin
+github_username:  pujangga123
+
+remote_theme: pages-themes/minima
+plugins:
+- jekyll-remote-theme
+- jekyll-feed
