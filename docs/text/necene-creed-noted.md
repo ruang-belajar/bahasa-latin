@@ -1,8 +1,8 @@
-CREDO in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium.   
+CREDO in unum Deum<sub>Ac</sub>, Patrem<sub>Ac</sub> omnipotentem, factorem<sub>Ac</sub> caeli<sub>Ge</sub> et terrae<sub>Ge?</sub>, visibilium omnium et invisibilium.   
 
 > I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible.  
 
-Et in unum Dominum Iesum Christum, Filium Dei unigenitum,  ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
+Et in unum Dominum Iesum<sub>Ac</sub> Christum, Filium Dei unigenitum,  ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
 
 > And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, one in being with the Father; through Whom all things were  made.  
 
