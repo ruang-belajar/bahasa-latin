@@ -1,5 +1,7 @@
 # Ruang Belajar Latin
 
+![](docendo-disimus.jpg)
+
 Repositori ini adalah catatan pribadi saya dalam mempelajari bahasa Latin.
 
 Anda bisa berkontribusi menambahkan entry pada repositori ini. Yang Anda bisa lakukan:

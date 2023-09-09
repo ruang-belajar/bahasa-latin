@@ -11,7 +11,8 @@
 
 ## O-Declension
 - [caelum, caeli [n]](https://www.latin-is-simple.com/en/vocabulary/noun/155) _sky, heaven_
-- [deus, dei [m]](https://www.latin-is-simple.com/en/vocabulary/noun/18032) _god_
+- [deus, dei [m]](https://www.latin-is-simple.com/en/vocabulary/noun/18097) _God (Christian God)_
+- [Dominus, Domini [m.]](https://www.latin-is-simple.com/en/vocabulary/noun/18098/) _Lord (Jesus Christ)_
 - [filius, filii [m]](https://www.latin-is-simple.com/en/vocabulary/noun/88) _son_
 
 ## U-Declension
