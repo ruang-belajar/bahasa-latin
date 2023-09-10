@@ -1,10 +1,10 @@
-Credo in unum<sub>mA</sub> Deum<sub>MA</sub>, Patrem<sub>MA</sub> omnipotentem, factorem<sub>MA</sub> caeli<sub>mG</sub> et terrae<sub>mG?</sub>, visibilium<sub>mGp</sub> omnium<sub>mGp</sub> et invisibilium<sub>mGp</sub>.   
+Credo in unum<sub>mA</sub> Deum<sup>MA</sup>, Patrem<sup>MA</sup> omnipotentem, factorem<sup>MA</sup> caeli<sup>MG</sup> et terrae<sup>MG</sup>, visibilium<sub>mGp</sub> omnium<sub>mGp</sub> et invisibilium<sub>mGp</sub>.   
 
 > I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible.  
 
-Et in unum Dominum<sub>MA</sub> Iesum<sub>MA</sub> Christum<sub>MA</sub>, Filium<sub>MA</sub> Dei<sub>MG</sub> unigenitum<sub>mA?</sub>, ex Patre<sub>MB</sub> natum<sub>mA?</sub> ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
+Et in unum<sub>mA</sub> Dominum<sup>MA</sup> Iesum<sup>MA</sup> Christum<sup>MA</sup>, Filium<sup>MA</sup> Dei<sup>MG</sup> unigenitum<sub>mA?</sub>, ex Patre<sup>MB</sup> natum<sub>mA?</sub> ante omnia<sub>nN?p</sub> saecula<sup>NN?</sup>. Deum<sup>MA</sup> de Deo<sup>MB</sup>, Lumen<sup>NA</sup> de Lumine<sup>MB</sub>, Deum<sup>MA</sub> verum<sup>NA</sup> de Deo<sup>MB</sup> vero<sup>NB</sup>, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
 
-> And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, one in being with the Father; through Whom all things were  made.  
+> And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, one in being with the Father; through Whom all things were made.  
 
 Qui propter nos homines et propter nostram salutem descendit de caelis. Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est.   
 

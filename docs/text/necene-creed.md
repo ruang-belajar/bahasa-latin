@@ -2,9 +2,9 @@ CREDO in unum Deum, Patrem omnipotentem, factorem caeli et terrae, visibilium om
 
 > I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible.  
 
-Et in unum Dominum Iesum Christum, Filium Dei unigenitum,  ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
+Et in unum Dominum Iesum Christum, Filium Dei unigenitum, ex Patre natum ante omnia saecula. Deum de Deo, Lumen de Lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
 
-> And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, one in being with the Father; through Whom all things were  made.  
+> And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, one in being with the Father; through Whom all things were made.  
 
 Qui propter nos homines et propter nostram salutem descendit de caelis. Et incarnatus est de Spiritu Sancto ex Maria Virgine, et homo factus est.   
 

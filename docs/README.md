@@ -1,6 +1,7 @@
 ## Vocabulary
 - [Adjective](adjective.md)
 - [Noun](noun.md)
+- [Preposition](preposition.md)
 - [Verb](verb.md)
 
 ## Text Latihan
