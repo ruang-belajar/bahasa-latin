@@ -1,6 +1,7 @@
 Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin for Homeschoolers_.
 
 # Words
+- *sum* : _I am_
 - *nauta* : _sailor_
 - *nautae* : _sailors_
 - *poēta* : _poet_
@@ -8,9 +9,6 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - *agricolae* : _farmers_
 
 # Lessons
-## NEW WORD: *sum*
-*sum* = _I am_
-
 ## Word Order
 The words in a Latin sentence are not usually in the same order as they would be in an English sentence. For example, sum nauta and nauta sum mean the same thing. This may seem strange to you at first, but it will become easier with practice.
 

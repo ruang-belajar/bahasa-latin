@@ -1,5 +1,5 @@
 ## Basic Lesson
-1. [_Getting Started with Latin - Beginning Latin for Homeschoolers_ (Summarized)](basics-1.md)
+- [_Getting Started with Latin - Beginning Latin for Homeschoolers_ (Summarized)](basics-1.md)
 
 ## Vocabulary
 - [Adjective](adjective.md)
