@@ -180,15 +180,15 @@ Again (just as with *est*), if you cannot figure out whether *sunt* means _are_ 
 _they are_, try them both. The correct meaning of *sunt* should become clear.
 
 EXERCISES:
-1. Poētae sunt.
-2. Poētae sunt agricolae.
-3. Agricolae nōn sunt.
-4. Poētae sunt nautae.5. Poēta est.
-6. Estis poētae.
-7. Nautae nōn sunt agricolae.
-8. Agricola est poēta.
-9. Nautae sumus.
-10. Nōn es poēta
+1. *Poētae sunt.*
+2. *Poētae sunt agricolae.*
+3. *Agricolae nōn sunt.*
+4. *Poētae sunt nautae.5. Poēta est.*
+6. *Estis poētae.*
+7. *Nautae nōn sunt agricolae.*
+8. *Agricola est poēta.*
+9. *Nautae sumus.*
+10. *Nōn es poēta*
 
 ## PERSON
 
@@ -221,30 +221,30 @@ Remember to chant or sing these verbs over and over in order to memorize them.
 In the exercises below, determine what the subject of each sentence is. Then, determine if it is first person, second person, or third person. Finally, determine whether it is singular or plural.
 
 EXERCISES:
-1. *I am hungry.*
-2. *You are a nice person.*
-3. *She is very smart.*
-4. *We are going to the park.*
-5. *Y'all have a beautiful home.*
-6. *They eat lunch at Aunt Martha’s house every Sunday.*
-7. *He is a tennis player.*
-8. *It is a history book.*
-9. *Y'all really know how to throw a party.*
-10. *The flowers in your garden are pretty.*
+1. I am hungry.
+2. You are a nice person.
+3. She is very smart.
+4. We are going to the park.
+5. Y'all have a beautiful home.
+6. They eat lunch at Aunt Martha’s house every Sunday.
+7. He is a tennis player.
+8. It is a history book.
+9. Y'all really know how to throw a party.
+10. The flowers in your garden are pretty.
 
 ## DIRECT OBJECTS
 When *nauta* is the subject of a sentence it appears in its normal form which is *nauta*. When *nauta* is the direct object in a sentence, we change the ending to *-am*. That makes it *nautam* instead of nauta. Use *nautam* only with action verbs, not verbs of being or existing like _am_, _are_, or _is_ (also called
 linking verbs). A word that renames the subject of the sentence after a linking verb is called a predicate nominative. Predicate nominatives take the normal form of the word, not the direct object form. Here are some examples to help illustrate these concepts:
 
-*The nauta saw an island.*
+_The *nauta* saw an island._
 
 In this sentence, sailor is the subject of the sentence, so it retains its normal form which is nauta. Here is another example:
 
-I saw a *nautam*.
+_I saw a *nautam*._
 
 In this sentence, sailor is the direct object, so the ending changes to *-am* to make *nautam*. Here is a third example:
 
-The man is a *nauta*.
+_The man is a *nauta*._
 
 In this sentence, sailor is the predicate nominative (a word that renames the subject of the sentence after a linking verb) so it retains its normal form which is *nauta*.
 
