@@ -7,6 +7,7 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - *poēta* : _poet_
 - *agricola* : _farmer_
 - *agricolae* : _farmers_
+- *pecūnia* : _money_
 
 # SUBJECT & OBJECT
 ## Word Order
@@ -500,3 +501,45 @@ By now, you may be noticing a pattern to the endings of the verbs. If we made a 
 As with the verbs themselves, it is best to memorize these endings so you can recognize them easily. Spell them out by letters: *-o, -s, -t, -mus, -tis, -nt*.
 
 From now on, when you learn a verb, you will know how to use it in all six present tense forms. You’ve come a long way from Lesson One. Keep up the good work.
+
+# ADVERB
+## NEW WORD: *saepe*
+MEANING _often_
+
+PRONUNCIATION TIP: The *ae* in *saepe* will sound different depending on which pronunciation style you adopt. In classical pronunciation, the *ae* in *saepe* sounds like the English word _eye_. In ecclesiastical pronunciation, it will sound like the _e_ in _bet_.
+
+*Saepe* is your first Latin adverb. An adverb is a word that describes how the action is taking place. When you translate the exercises, try to put the adverb where it sounds the best.
+
+EXERCISES:
+1. *Stellās saepe spectō.*
+2. *Stellās saepe spectant.*
+3. *Poētam saepe spectās.*
+4. *Poēta est.*
+5. *Agricolae estis.*
+6. *Poēta nōn est agricola.*
+7. *Et lūnam et stellās saepe spectāmus.*
+8. *Agricolae sunt poētae.*
+9. *Sumus poētae.*
+10. *Lūnam saepe nōn spectātis*
+
+## NEW WORD: *numerō
+MEANING _I count, I do count, I am counting_
+
+PRONUNCIATION TIP: If you are using the ecclesiastical style of pronunciation, remember to roll the _r_ in *numerō* lightly. The endings for *numerō* are the same as for *spectō*. Review them as often as you need to with this handy chart:
+
+| | Singular | Plural |
+| --- | --- | --- |
+| 1st Person | numero | numeratmus |
+| 2nd Person | numeras | numeratis |
+| 3rd Person | numerat | numerant |
+
+EXERCISES:
+1. Stellās numerō.
+2. Numerās stellās.
+3. Nauta stellās numerat.
+4. Stellās saepe numerāmus.
+5. Nautās numerātis.
+6. Nautae stellās saepe numerant.
+7. Agricolae nōn sunt poētae.
+8. Nautae sunt.
+9. Sumus agricolae.10. Poēta es
