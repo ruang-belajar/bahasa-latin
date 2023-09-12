@@ -8,6 +8,7 @@
 - [Verb](verb.md)
 
 ## Text Latihan
+- [Movie Quotes](text/movie-quotes.md)
 - [Nicene Creed](text/necene-creed.md)
 - [Nicene Creed - Noted](text/necene-creed-noted.md)
 
