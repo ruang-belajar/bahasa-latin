@@ -3,6 +3,7 @@
 ## A-Declension
 - [puella, puellae [f]](https://www.latin-is-simple.com/en/vocabulary/noun/40) _girl_
 - [terra, terrae [f]](https://www.latin-is-simple.com/en/vocabulary/noun/80/) _earth, land_
+- [discipula, discipulae [f]](https://www.latin-is-simple.com/en/vocabulary/noun/31) _student, pupil_
 
 ## Declension Consonant Stems
 - [homo, hominis [m]](https://www.latin-is-simple.com/en/vocabulary/noun/113) _human_
