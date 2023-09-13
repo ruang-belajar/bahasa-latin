@@ -8,6 +8,13 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **agricola** : _farmer_
 - **agricolae** : _farmers_
 - **pecūnia** : _money_
+- **semper** : _always_
+- **porto** : _I bring_
+- **pecunia** : _money_
+- **tabula** : _writing tablet_
+- **aqua** : _water_
+- **puella** : _girl_
+- **silva** : _forest_
 
 # SUBJECT & OBJECT
 ## Word Order
@@ -146,8 +153,6 @@ Did you notice something strange about that sentence? This sentence does not mak
 **Sumus agricola.**
 
 This sentence does not make any sense either because it means _we are a farmer_. **Sumus** and **agricola** do not agree because **sumus** is plural and **agricola** is singular. A correct sentence would be **sumus agricolae** because **sumus** and **agricolae** agree.
-
-If you get stuck, check the answers in the back of the book.
 
 EXERCISES:
 1. **Sumus.**
@@ -522,7 +527,7 @@ EXERCISES:
 9. **Sumus poētae.**
 10. **Lūnam saepe nōn spectātis**
 
-## NEW WORD: **numerō
+## NEW WORD: **numerō**
 MEANING _I count, I do count, I am counting_
 
 PRONUNCIATION TIP: If you are using the ecclesiastical style of pronunciation, remember to roll the _r_ in **numerō** lightly. The endings for **numerō** are the same as for **spectō**. Review them as often as you need to with this handy chart:
@@ -544,3 +549,44 @@ EXERCISES:
 8. **Nautae sunt.**
 9. **Sumus agricolae.**
 10. **Poēta es**
+
+## NEW WORD: **fēmina**
+MEANING _woman_
+
+**Fēmina** is the first word we have encountered in this book that refers to someone of the female gender. Remember that **est** can be translated as _he is, she is_, or _it is_. Now, you will have an opportunity to translate sentences such as the following example:
+
+**Fēmina est.**
+
+This sentence means _she is a woman_. It should be clear when to use _he, she_ or _it_ in your translations.
+When **est** does not refer directly to a female, continue to translate it as _he is_.
+
+EXERCISES:
+1. **Fēmina est.**
+2. **Fēminae sumus.**
+3. **Sum fēmina.**
+4. **Fēmina pecūniam portat.**
+5. **Pecūniam nōn portant.**
+6. **Agricola est.**
+7. **Ego pecūniam saepe nōn numerō.**
+8. **Agricola es.**
+9. **Nautae sunt poētae.**
+10. **Lūnam spectāmus.**
+
+## NEW WORD: **amō**
+MEANING _I love, I do love, I am loving, I like, I do like, I am liking_
+
+You must decide on your own whether to translate **amō** as _I love_ or _I like_. How will you know which one to choose? Just use the one that sounds best in the context of the sentence.
+
+Can you name the six forms of **amō** and tell what they mean?
+
+EXERCISES:
+1. **Fēminae agricolam nōn amant.**
+2. **Puella nautam amat.**
+3. **Poētam amāmus.**
+4. **Et lūnam et stellās amō.**
+5. **Puella aquam saepe portat.**
+6. **Sum puella.**
+7. **Pecūniam semper portātis.**
+8. **Fēminae sumus et puellae sunt.**
+9. **Nōn sum nauta.**
+10. **Stellās numerāmus.**
