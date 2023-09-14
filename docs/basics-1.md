@@ -15,6 +15,10 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **aqua** : _water_
 - **puella** : _girl_
 - **silva** : _forest_
+- **scapha** : _boat_
+- **terra** : _earth, land, soil_
+- **acta** : _seashore_
+- **casa** : _house_
 
 # SUBJECT & OBJECT
 ## Word Order
@@ -590,3 +594,87 @@ EXERCISES:
 8. **Fēminae sumus et puellae sunt.**
 9. **Nōn sum nauta.**
 10. **Stellās numerāmus.**
+
+## NEW WORD: **numquam**
+MEANING _never_
+
+**Numquam** is another adverb just like **saepe** and **semper**.
+
+EXERCISES:
+1. **Aquam numquam portō.**
+2. **Fēmina tabulās numquam portat.**
+3. **Nautae scaphās semper spectant.**
+4. **Ego pecūniam semper numerō.**
+5. **Spectās numquam lūnam.**
+6. **Stellās saepe spectātis.**
+7. **Puella silvam amat.**
+8. **Poētae estis.**
+9. **Nautae sumus et scaphās amāmus.**
+10. **Nōn sum nauta**
+
+## NEW WORD: **sed**
+MEANING _but_
+
+The word **sed** often divides a sentence into two parts. To make translation easier, translate the part that comes before **sed** first and then translate the part that comes after **sed**.
+
+EXERCISES:
+1. **Agricola sum sed scaphās amō.**
+2. **Fēmina pecūniam portat sed puellae aquam portant.**
+3. **Nauta sum sed scaphās nōn amō.**
+4. **Agricola est poēta.**
+5. **Agricola silvam nōn amat.**
+6. **Scaphās spectant.**
+7. **Puellae aquam numquam portant.**
+8. **Nauta silvam amat.**
+9. **Stellās numerāmus.**
+10. **Agricola nōn es.**
+
+## NEW WORD: **arō**
+MEANING _I plow, I do plow, I am plowing_
+
+EXERCISES:
+1. **Terram arō.**
+2. **Agricolae terram arant.**
+3. **Puella terram saepe arat.**
+4. **Terram numquam arās.**
+5. **Nautae scaphās amant.**
+6. **Sumus agricolae sed scaphās amāmus.**
+7. **Poēta nōn es sed tabulās saepe portās.**
+8. **Agricolae estis sed terram numquam arātis.**
+9. **Nautae sunt sed sumus poētae.**
+10. **Poētae tabulās semper portant**
+
+## NEW WORD: **ambulō**
+MEANING _I walk, I do walk, I am walking_
+
+EXERCISES:
+1. **Ambulāmus.**
+2. **Fēmina ambulat.**
+3. **Nautae pecūniam portant.**
+4. **Terram saepe nōn arātis.**
+5. **Nautae pecūniam saepe numerant.**
+6. **Lūnam ego spectō sed stellās spectās.**
+7. **Nauta es sed poēta sum.**
+8. **Tabulās nōn portāmus.**
+9. **Fēminae silvam amant.**
+10. **Nautae sunt sed scaphās nōn amant.**
+
+# PREPOSITION
+## NEW WORD: **ad**
+MEANING _to, toward_
+
+A preposition is a word that shows a physical relationship between two nouns. Examples of prepositions are _in, to, beside, with, behind, under_ and _over_. **Ad** is your first Latin preposition. **Ad** can mean to or _toward_. Use the meaning that makes the most sense in context.
+
+When you use **ad**, the word it refers to must have the direct object ending. For instance, to the forest would be **ad silvam**, not **ad silva**. And in the plural, toward _the sailors_ would be **ad nautās**, not **ad nautae**.
+
+EXERCISES:
+1. **Ad silvam ambulō.**
+2. **Nautae ad scaphās ambulant.**
+3. **Ad silvam ambulās sed ad aquam ambulō.**
+4. **Pecūniam ad scapham portāmus.**
+5. **Scapham ad aquam portant.**
+6. **Agricola terram semper arat.**
+7. **Ad silvam numquam ambulās.**
+8. **Terram amō sed nōn sum agricola.**
+9. **Poētae sunt sed tabulās numquam portant.**
+10. **Fēmina nōn sum**
