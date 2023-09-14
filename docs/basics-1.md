@@ -19,6 +19,8 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **terra** : _earth, land, soil_
 - **acta** : _seashore_
 - **casa** : _house_
+- **nāvigō** : _I sail_
+- **īnsula** : _island_
 
 # SUBJECT & OBJECT
 ## Word Order
@@ -678,3 +680,36 @@ EXERCISES:
 8. **Terram amō sed nōn sum agricola.**
 9. **Poētae sunt sed tabulās numquam portant.**
 10. **Fēmina nōn sum**
+
+# CASES
+In Latin, the endings of nouns change according to what role or function they play in a given sentence. Any noun may have many different forms. These different forms of nouns are called cases. When we use a word as the subject of a sentence, that word is said to be in the nominative case. We also use the nominative case for predicate nominatives. When we use a word as a direct object, that word is said to be in the accusative case. We also use the accusative case with certain prepositions like ad. There are five cases in all.
+Examine the chart below.
+
+| | Singular | Plural |
+| --- | --- | --- |
+| 1. Nominative (subject/predicate nominative) | nauta | nautae |
+| 2. | | |
+| 3. | | |
+| 4. Accusative (direct object/object of preposition) | nautam | nautas |
+| 5. | | |
+
+Each case performs certain functions while working together with the other cases to create meaningful sentences. As you can see from the chart, you already have experience with two of the five cases. As you learn the second, third, and fifth cases, you will be able to translate more complex (and interesting) exercises.
+
+## NEW WORD: **circum**
+MEANING _around_
+
+PRONUNCIATION TIP: In classical pronunciation, each c in circum sounds like the _k_ in _kitchen_. In ecclesiastical pronunciation, the first _c_ will sound like the _ch_ in _cheese_, and the second one will sound like the _k_ in _kitchen_.
+
+**Circum** is another preposition. Like **ad**, **circum** takes the accusative (direct object) case.
+
+EXERCISES:
+1. **Circum īnsulam nāvigō.**
+2. **Circum silvam saepe ambulāmus.**
+3. **Nautae circum īnsulam semper nāvigant.**
+4. **Ad casam ambulāmus.**
+5. **Nōn sum agricola sed terram saepe arō.**
+6. **Nōn es poēta sed tabulās semper portās.**
+7. **Et stellās et lūnam saepe spectās.**
+8. **Nauta scaphās amat.**
+9. **Nōn sumus agricolae sed terram amāmus.**
+10. **Et actam et silvam amō.**
