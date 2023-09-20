@@ -744,7 +744,7 @@ The fifth case on our chart is called the ablative case. The ablative case can b
 | 2. |  |  |
 | 3. |  |  |
 | 4. Accusative (direct object/object of preposition) | nautam | nautas |
-| 5. Ablative (many uses) | nauta | |
+| 5. Ablative (many uses) | **nauta** | |
 
 The ablative singular is spelled the same as the nominative singular. The only visible difference is that the ablative singular has a mark over its final letter. This mark is called a macron. This macron will help you to distinguish the ablative singular from the nominative singular. In this book you will learn two different ways to use the ablative case.
 
@@ -778,3 +778,39 @@ EXERCISES:
 8. **Patriam dēsīderāmus.**
 9. **Puella prope īnsulam natat.**
 10. **Nōn es poēta sed tabulās portās.**
+
+## ABLATIVE PLURAL
+PRONUNCIATION TIP: In both classical and ecclesiastical pronunciation, the _i_ in **nautīs** sounds like the _ee_ in _meet_ and _sweet_.
+The ablative plural has the ending **-īs**. Compare the ablative plural to the forms you already know in the chart below:
+
+| | Singular | Plural |
+| --- | --- | --- |
+| 1. Nominative (subject/predicate nominative) | nauta | nautae |
+| 2. | | |
+| 3. | | |
+| 4. Accusative (direct object/object of preposition) | nautam | nautas |
+| 5. Ablative (many uses) | nauta | **nautis** |
+
+## NEW WORD: **schola**
+MEANING _school_
+
+Review the noun endings you know with this handy chart:
+
+| | Singular | Plural |
+| 1. Nominative (subject/predicate nominative) | **schola** | **scholae** |
+| 2. | | |
+| 3. | | |
+| 4. Accusative (direct object/object of preposition) | **scholam** | **scholas** |
+| 5. Ablative (many uses) | **schola** | **scholis** |
+
+EXERCISES:
+1. **Schola in silvā est.**
+2. **Puellae ad scholam ambulant.**
+3. **Puella est in scholā.**
+4. **Puella tabulam ad scholam portat.**
+5. **Nauta es sed scaphās nōn amās.**
+6. **Nauta ego sum sed agricola es.**
+7. **Ad īnsulās nāvigāmus sed patriam dēsīderāmus.**
+8. **Agricolae sumus sed terram numquam arāmus.**
+9. **Scapha in aquā est.**
+10. **In scaphīs estis sed in aquā sum.**
