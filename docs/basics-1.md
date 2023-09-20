@@ -9,7 +9,6 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **agricolae** : _farmers_
 - **pecūnia** : _money_
 - **semper** : _always_
-- **porto** : _I bring_
 - **pecunia** : _money_
 - **tabula** : _writing tablet_
 - **aqua** : _water_
@@ -19,8 +18,12 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **terra** : _earth, land, soil_
 - **acta** : _seashore_
 - **casa** : _house_
-- **nāvigō** : _I sail_
 - **īnsula** : _island_
+- **patria** : _homeland_
+- **natō** : _I swim_
+- **nāvigō** : _I sail_
+- **porto** : _I bring_
+- **dēsīderō** : _I long for, I do long for, I a longing for, I want, I am wanting_
 
 # SUBJECT & OBJECT
 ## Word Order
@@ -46,7 +49,7 @@ EXERCISES:
 7. **Nauta ego sum**.
 
 ## NEW WORD: **agricola**
-MEANING _farmer_
+MEANING: _farmer_
 
 EXERCISES:
 1. **Sum agricola.**
@@ -59,7 +62,8 @@ EXERCISES:
 8. **Nauta ego sum.**
 
 ## NEW WORD: **et**
-MEANING _and_
+MEANING: _and_
+
 Most of the time, et simply means and. But, if you use it twice, it can mean both...and. Here is an example:
 **Sum et nauta et agricola** (_I am both a sailor and a farmer_).
 
@@ -72,7 +76,7 @@ EXERCISES:
 6. **Ego sum et nauta et agricola.**
 
 ## NEW WORD: **nōn**
-MEANING _not_
+MEANING: _not_
 
 PRONUNCIATION TIP: In both classical and ecclesiastical pronunciation, **nōn** rhymes with bone, loan and tone.
 
@@ -89,7 +93,7 @@ EXERCISES:
 8. **Et agricola et nauta ego sum.**
 
 ## NEW WORD: **es**
-MEANING _you are_
+MEANING: _you are_
 In English, it takes two words to say _you are_. In Latin, it takes only one: es**.
 
 **Es** is used only when speaking to one person.
@@ -107,7 +111,7 @@ EXERCISES:
 10. **Nauta sum et agricola es.**
 
 ## NEW WORD: **est**
-MEANING _he is_
+MEANING: _he is_
 
 In English, it takes two words to say _he is_. In Latin, it takes only one: **est**. **Est**
 can also mean _she is_ and _it is_, but for now just translate est as _he is_.
@@ -147,7 +151,7 @@ EXERCISES:
 7. **Nauta nōn est agricola.**
 
 ## NEW WORD: **sumus**
-MEANING _we are_
+MEANING: _we are_
 
 When studying any language it is important to notice whether each individual word is singular or plural. Why? Because each word in a sentence must interact correctly with the words around it. In grammatical terms, this is
 called agreement. See if you can figure out what is wrong with the following example:
@@ -173,7 +177,7 @@ EXERCISES:
 10. **Nauta est.**
 
 ## NEW WORD: **sunt**
-MEANING _they are_
+MEANING: _they are_
 
 **Sunt** is very similar to **est**. **Sunt** can mean _they are_ or just _are_. Consider the
 following example:
@@ -282,7 +286,7 @@ EXERCISES:
 
 # VERB
 ## NEW WORD: **spectō**
-MEANING _I watch, I do watch, I am watching_
+MEANING: _I watch, I do watch, I am watching_
 
 **Spectō** is our first action verb in Latin. It means _I watch, I do watch_, or _I am
 watching_. You can use words such as **ego** and **nōn** along with **spectō**, just as you would with **sum**.
@@ -304,7 +308,7 @@ EXERCISES:
 10. **Poētae nōn estis.**
 
 ## NEW WORD: **stella**
-MEANING _star_
+MEANING: _star_
 
 Think of the possible endings of **stella** and how each one would be used in a sentence.
 
@@ -321,7 +325,7 @@ EXERCISES:
 10. **Agricola es.**
 
 ## NEW WORD: **lūna**
-MEANING _moon_
+MEANING: _moon_
 
 Think of the possible endings of lūna and how each one would be used in a sentence.
 
@@ -338,7 +342,7 @@ EXERCISES:
 10. **Agricolae sunt poētae.**
 
 ## NEW WORD: **spectās**
-MEANING _you watch, you do watch, you are watching_
+MEANING: _you watch, you do watch, you are watching_
 
 This chart should come in handy as we learn additional forms of **spectō**. 
 
@@ -360,7 +364,7 @@ EXERCISES:
 7. **Poētae nōn sumus.**
 
 ## NEW WORD: **spectat**
-MEANING _he watches, he does watch, he is watching_
+MEANING: _he watches, he does watch, he is watching_
 
 The chart is getting fuller:
 
@@ -398,7 +402,7 @@ EXERCISES:
 10. **Nautae sunt poētae**
 
 ## NEW WORD: **spectāmus**
-MEANING _we watch, we do watch, we are watching_
+MEANING: _we watch, we do watch, we are watching_
 
 We’re over halfway there!
 
@@ -421,7 +425,7 @@ EXERCISES:
 10. **Poētae sumus.**
 
 ## NEW WORD: **spectātis**
-MEANING **y’all watch, y’all do watch, y’all are watching**
+MEANING: **y’all watch, y’all do watch, y’all are watching**
 
 We’re almost there!
 
@@ -444,7 +448,7 @@ EXERCISES:
 10. **Agricola est.**
 
 ## NEW WORD: **spectant**
-MEANING _they watch, they do watch, they are watching_
+MEANING: _they watch, they do watch, they are watching_
 
 The chart is now full!
 
@@ -515,7 +519,7 @@ From now on, when you learn a verb, you will know how to use it in all six prese
 
 # ADVERB
 ## NEW WORD: **saepe**
-MEANING _often_
+MEANING: _often_
 
 PRONUNCIATION TIP: The **ae** in **saepe** will sound different depending on which pronunciation style you adopt. In classical pronunciation, the **ae** in **saepe** sounds like the English word _eye_. In ecclesiastical pronunciation, it will sound like the _e_ in _bet_.
 
@@ -534,7 +538,7 @@ EXERCISES:
 10. **Lūnam saepe nōn spectātis**
 
 ## NEW WORD: **numerō**
-MEANING _I count, I do count, I am counting_
+MEANING: _I count, I do count, I am counting_
 
 PRONUNCIATION TIP: If you are using the ecclesiastical style of pronunciation, remember to roll the _r_ in **numerō** lightly. The endings for **numerō** are the same as for **spectō**. Review them as often as you need to with this handy chart:
 
@@ -557,7 +561,7 @@ EXERCISES:
 10. **Poēta es**
 
 ## NEW WORD: **fēmina**
-MEANING _woman_
+MEANING: _woman_
 
 **Fēmina** is the first word we have encountered in this book that refers to someone of the female gender. Remember that **est** can be translated as _he is, she is_, or _it is_. Now, you will have an opportunity to translate sentences such as the following example:
 
@@ -579,7 +583,7 @@ EXERCISES:
 10. **Lūnam spectāmus.**
 
 ## NEW WORD: **amō**
-MEANING _I love, I do love, I am loving, I like, I do like, I am liking_
+MEANING: _I love, I do love, I am loving, I like, I do like, I am liking_
 
 You must decide on your own whether to translate **amō** as _I love_ or _I like_. How will you know which one to choose? Just use the one that sounds best in the context of the sentence.
 
@@ -598,7 +602,7 @@ EXERCISES:
 10. **Stellās numerāmus.**
 
 ## NEW WORD: **numquam**
-MEANING _never_
+MEANING: _never_
 
 **Numquam** is another adverb just like **saepe** and **semper**.
 
@@ -615,7 +619,7 @@ EXERCISES:
 10. **Nōn sum nauta**
 
 ## NEW WORD: **sed**
-MEANING _but_
+MEANING: _but_
 
 The word **sed** often divides a sentence into two parts. To make translation easier, translate the part that comes before **sed** first and then translate the part that comes after **sed**.
 
@@ -632,7 +636,7 @@ EXERCISES:
 10. **Agricola nōn es.**
 
 ## NEW WORD: **arō**
-MEANING _I plow, I do plow, I am plowing_
+MEANING: _I plow, I do plow, I am plowing_
 
 EXERCISES:
 1. **Terram arō.**
@@ -647,7 +651,7 @@ EXERCISES:
 10. **Poētae tabulās semper portant**
 
 ## NEW WORD: **ambulō**
-MEANING _I walk, I do walk, I am walking_
+MEANING: _I walk, I do walk, I am walking_
 
 EXERCISES:
 1. **Ambulāmus.**
@@ -663,7 +667,7 @@ EXERCISES:
 
 # PREPOSITION
 ## NEW WORD: **ad**
-MEANING _to, toward_
+MEANING: _to, toward_
 
 A preposition is a word that shows a physical relationship between two nouns. Examples of prepositions are _in, to, beside, with, behind, under_ and _over_. **Ad** is your first Latin preposition. **Ad** can mean to or _toward_. Use the meaning that makes the most sense in context.
 
@@ -687,18 +691,18 @@ Examine the chart below.
 
 | | Singular | Plural |
 | --- | --- | --- |
-| 1. Nominative (subject/predicate nominative) | nauta | nautae |
+| 1. Nominative (subject/predicate nominative) | **nauta** | **nautae** |
 | 2. | | |
 | 3. | | |
-| 4. Accusative (direct object/object of preposition) | nautam | nautas |
+| 4. Accusative (direct object/object of preposition) | **nautam** | **nautas** |
 | 5. | | |
 
 Each case performs certain functions while working together with the other cases to create meaningful sentences. As you can see from the chart, you already have experience with two of the five cases. As you learn the second, third, and fifth cases, you will be able to translate more complex (and interesting) exercises.
 
 ## NEW WORD: **circum**
-MEANING _around_
+MEANING: _around_
 
-PRONUNCIATION TIP: In classical pronunciation, each c in circum sounds like the _k_ in _kitchen_. In ecclesiastical pronunciation, the first _c_ will sound like the _ch_ in _cheese_, and the second one will sound like the _k_ in _kitchen_.
+PRONUNCIATION TIP: In classical pronunciation, each _c_ in **circum** sounds like the _k_ in _kitchen_. In ecclesiastical pronunciation, the first _c_ will sound like the _ch_ in _cheese_, and the second one will sound like the _k_ in _kitchen_.
 
 **Circum** is another preposition. Like **ad**, **circum** takes the accusative (direct object) case.
 
@@ -713,3 +717,64 @@ EXERCISES:
 8. **Nauta scaphās amat.**
 9. **Nōn sumus agricolae sed terram amāmus.**
 10. **Et actam et silvam amō.**
+
+## NEW WORD: **prope**
+MEANING _near_
+
+**Prope** is another preposition. Like **ad** and **circum**, **prope** takes the accusative (direct object) case.
+
+EXERCISES:
+1. **Prope actam ambulant.**
+2. **Casa nōn est prope silvam.**
+3. **Prope īnsulās nāvigāmus.**
+4. **Scaphae circum īnsulās numquam nāvigant.**
+5. **Es prope silvam.**
+6. **Scaphās semper ego spectō.**
+7. **Fēminae et puellae prope silvam sunt.**
+8. **Aquam portātis.**
+9. **Prope īnsulam semper natāmus.**
+10. **Nauta nōn est sed scaphās amat.**
+
+# ABLATIVE CASE
+The fifth case on our chart is called the ablative case. The ablative case can be used in many ways.
+
+| | Singular | Plural |
+| --- | --- | --- |
+| 1. Nominative (subject/predicate nominative) | nauta | nautae |
+| 2. |  |  |
+| 3. |  |  |
+| 4. Accusative (direct object/object of preposition) | nautam | nautas |
+| 5. Ablative (many uses) | nauta | |
+
+The ablative singular is spelled the same as the nominative singular. The only visible difference is that the ablative singular has a mark over its final letter. This mark is called a macron. This macron will help you to distinguish the ablative singular from the nominative singular. In this book you will learn two different ways to use the ablative case.
+
+## NEW WORD: **in**
+MEANING _in, on_ (takes ablative case), _into_ (takes accusative case)
+
+So far, all the prepositions you know (**ad, circum, prope**) take the accusative case. Not all prepositions, however, take the accusative case. Some prepositions take the ablative case. The new word for this lesson, **in**, takes either the accusative case or the ablative case depending on what it means. In can mean _in, on,_ or _into_. When **in** means _into_, it takes the accusative case.
+
+When **in** means _in_ or _on_, it takes the ablative case. When you translate the exercises you will have to figure out whether to translate **in** as _in_ or _on_. To learn more about how the word **in** is used, examine the following examples:
+
+**In casā sum.**
+
+Because **in** takes the ablative case here, that narrows our choices down to either _in_ or _on_. Because of the context, the best translation for **in** is _in_. So, the sentence means _I am in the house_. Here is another example:
+
+**In īnsulā sum.**
+
+Because **in** takes the ablative case here, that again narrows our choices down to either _in_ or _on_. Because of the context, the best translation for **in** is _on_. So, the sentence means _I am on the island_. Here is another example:
+
+**Agricola in casam ambulat.**
+
+Because **in** takes the accusative case here (and because of the context of the sentence), we know that the best meaning for **in** is _into_. So, the sentence means _the farmer is walking into the house_.
+
+EXERCISES:
+1. **Sum in casā.**
+2. **Nauta in īnsulā est.**
+3. **Nautae in scaphā nōn sunt.**
+4. **In īnsulā sumus.**
+5. **Agricola circum casam ambulat.**
+6. **Ad īnsulam saepe nāvigāmus.**
+7. **Fēmina in casā est sed agricola in silvam ambulat.**
+8. **Patriam dēsīderāmus.**
+9. **Puella prope īnsulam natat.**
+10. **Nōn es poēta sed tabulās portās.**
