@@ -2,7 +2,7 @@ Credo in unum<sub>mA</sub> Deum<sup>MA</sup>, Patrem<sup>MA</sup> omnipotentem, 
 
 > I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible.  
 
-Et in unum<sub>mA</sub> Dominum<sup>MA</sup> Iesum<sup>MA</sup> Christum<sup>MA</sup>, Filium<sup>MA</sup> Dei<sup>MG</sup> unigenitum<sub>mA?</sub>, ex Patre<sup>MB</sup> natum<sub>mA?</sub> ante omnia<sub>nN?p</sub> saecula<sup>NN?</sup>. Deum<sup>MA</sup> de Deo<sup>MB</sup>, Lumen<sup>NA</sup> de Lumine<sup>NB</sub>, Deum<sup>MA</sub> verum<sup>NA</sup> de Deo<sup>MB</sup> vero<sup>NB</sup>, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
+Et in unum<sub>mA</sub> Dominum<sup>MA</sup> Iesum<sup>MA</sup> Christum<sup>MA</sup>, Filium<sup>MA</sup> Dei<sup>MG</sup> unigenitum<sub>mA?</sub>, ex Patre<sup>MB</sup> natum<sub>mA?</sub> ante omnia<sub>nN?p</sub> saecula<sup>NN?</sup>. Deum<sup>MA</sup> de Deo<sup>MB</sup>, Lumen<sup>NA</sup> de Lumine<sup>NB</sup>, Deum<sup>MA</sup> verum<sup>NA</sup> de Deo<sup>MB</sup> vero<sup>NB</sup>, genitum non factum, consubstantialem Patri; per quem omnia facta sunt.   
 
 > And in one Lord, Jesus Christ, the only begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God Nrom true God, begotten, not made, one in being with the Father; through Whom all things were made.  
 

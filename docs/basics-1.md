@@ -184,7 +184,7 @@ following example:
 
 **Agricolae sunt poētae.**
 
-This sentence means the _farmers are poets_. Here it is clear that **agricolae** is the subject of the sentence. Therefore, we leave out they and sunt simply means _are_.
+This sentence means the _farmers are poets_. Here it is clear that **agricolae** is the subject of the sentence. Therefore, we leave out they and **sunt** simply means _are_.
 
 In other cases, there is no other word to be the subject of the sentence, as in the following example:
 
@@ -458,7 +458,7 @@ The chart is now full!
 | 2nd Person | spectās | spectātis |
 | 3rd Person | spectat | **spectant** |
 
-Do you remember the different ways to use sunt? Spectant is like that, too.
+Do you remember the different ways to use **sunt**? **Spectant** is like that, too.
 
 Let’s look at an example:
 
@@ -814,3 +814,91 @@ EXERCISES:
 8. **Agricolae sumus sed terram numquam arāmus.**
 9. **Scapha in aquā est.**
 10. **In scaphīs estis sed in aquā sum.**
+
+## EVEN MORE ABOUT EST AND SUNT
+Early in this book you learned two ways to use **est** and **sunt**. You learned that if a sentence already has a subject, **est** just means _is_. But, if a sentence has no other word to be the subject, **est** means he _is, she is,_ or _it is_.
+
+Likewise, you learned that if a sentence already has a subject, **sunt** just means _are_. But, if a sentence has no other word to be the subject, **sunt** means _they are_.
+
+Now I will show you another way that the words **est** and **sunt** are used in Latin. Est is used to mean there is and **sunt** is used to mean _there are_. Examine the following examples:
+
+**Est fēmina in scaphā** _(there is a woman in the boat)._
+
+**Sunt nautae in īnsulā** _(there are sailors on the island)._
+
+Did you notice that in those examples **est** and **sunt** came first in the sentence? Keep this third possible use of **est** and **sunt** in mind as you do the exercises, especially when **est** or **sunt** is the first word of the sentence.
+
+EXERCISES:
+1. **Sunt puellae in casā.**
+2. **Est scapha prope actam.**
+3. **Prope īnsulam numquam natō.**
+4. **Silvam dēsīderātis sed scaphās amāmus.**
+5. **Īnsulās nōn amās.**
+6. **Sunt et agricolae et fēminae in casīs.**
+7. **Poēta terram et aquam amat.8. Fēminae in silvīs saepe ambulant.**
+9. **Est pecūnia in scaphā.**
+10. **Nōn sum agricola sed terram amō.**
+
+## NEW WORD: **cotīdiē**
+MEANING _daily_
+
+PRONUNCIATION TIP: **Cotīdiē** has four syllables. In classical pronunciation it will sound like _ko-TEE-di-ay_. In ecclesiastical pronunciation, the _e_ at the end will sound like the _e_ in _bet_.
+
+**Cotīdiē** is another adverb like **saepe**, **semper**, and **numquam**.
+
+EXERCISES:
+1. **Ad actam cotīdiē ambulāmus.**
+2. **Nautae circum īnsulam cotīdiē nāvigant.**
+3. **Agricola terram cotīdiē arat.**
+4. **Puellae ad scholam cotīdiē ambulant.**
+5. **Aquam ad casās cotīdiē portāmus.**
+6. **Sunt nautae in īnsulīs.**
+7. **Estis poētae sed agricolae sumus.**
+8. **Lūnam spectātis sed stellās spectāmus.**
+9. **Patriam dēsīderās sed īnsulās dēsīderō.**
+10. **Poēta in casam ambulat.**
+
+## NEW WORD: **ā, ab**
+MEANING _from (takes the ablative case)_
+
+PRONUNCIATION TIP: In both classical and ecclesiastical pronunciation, the _a_ in **ā** and **ab** sounds like the _o_ in _not_ and _pot_.
+
+This preposition can be spelled either **ā** or *ab*. Generally speaking, **ā** is used if the next word starts with a consonant and **ab** is used if the next word starts with a vowel.
+
+We have similar spelling variations in English, too. Consider the following examples:
+
+A book
+
+An apple
+
+_A_ and _an_ are the same word but with one important difference. A comes before words that begin with a consonant and an comes before words that begin with a vowel. Why the variation in spelling? This is done in order to make pronunciation easier. For example, it is easier to say _a book_ than _an book_ and it is easier to say _an apple_ than _a apple_.
+
+Likewise, **ab īnsulā** is easier to say than **ā īnsulā** and **ā patriā** is easier than
+**ab patriā**. The concept is the same in Latin as it is in English.
+
+EXERCISES:
+1. **Puella ā casā ad scholam ambulat.**
+2. **Scaphae ab īnsulā ad patriam cotīdiē nāvigant.**
+3. **Fēmina pecūniam cotīdiē numerat.**
+4. **Sunt agricolae in casā.**
+5. **Ab īnsulā ad patriam nāvigāmus.**
+6. **Nautae in īnsulā nōn sunt.**
+7. **Ad actam cotīdiē ambulāmus.**
+8. **Ego circum īnsulam nāvigō.**
+9. **Estis agricolae sed terram numquam arātis.**
+10. **Fēmina tabulās portat**
+
+## NEW WORD: **cum**
+MEANING _with (takes the ablative case)_
+
+EXERCISES:
+1. **Fēmina est in casā cum puellīs.**
+2. **Agricola cum nautīs nōn est.**
+3. **Ambulō ad actam cum nautīs.**
+4. **Fēminae in scaphā cum nautīs sunt.**
+5. **Puellae ā scholā ad actam cotīdiē ambulant.**
+6. **Agricola est.**
+7. **Nautae sunt in scaphīs et in īnsulā.**
+8. **Terram amō sed agricola nōn sum.**
+9. **Puellae in scholam cum tabulīs ambulant.**
+10. **In scaphā sum sed in aquā es.**
