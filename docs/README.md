@@ -11,6 +11,7 @@
 - [Movie Quotes](text/movie-quotes.md)
 - [Nicene Creed](text/necene-creed.md)
 - [Nicene Creed - Noted](text/necene-creed-noted.md)
+- [Lingua Latina Pars I - Familia Romana](text/Lingua%20Latina%20Pars%20I%20-%20Familia%20Romana.pdf)
 
 ## Buku
 - [Getting Started with Latin_ Beginning Latin for Homeschoolers - William E. Linney](https://drive.google.com/file/d/1pq6CtdTm0GShAApJ8o9E1kmtKMoDWMMc/view?usp=drive_link) _(restricted)_
