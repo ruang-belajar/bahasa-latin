@@ -20,6 +20,7 @@ Catatan berikut dirangkum dari buku _Getting Started with Latin_ Beginning Latin
 - **casa** : _house_
 - **īnsula** : _island_
 - **patria** : _homeland_
+- **taberna** : _shop_
 - **natō** : _I swim_
 - **nāvigō** : _I sail_
 - **porto** : _I bring_
@@ -797,6 +798,7 @@ MEANING _school_
 Review the noun endings you know with this handy chart:
 
 | | Singular | Plural |
+| --- | --- | --- |
 | 1. Nominative (subject/predicate nominative) | **schola** | **scholae** |
 | 2. | | |
 | 3. | | |
@@ -902,3 +904,39 @@ EXERCISES:
 8. **Terram amō sed agricola nōn sum.**
 9. **Puellae in scholam cum tabulīs ambulant.**
 10. **In scaphā sum sed in aquā es.**
+
+## NEW WORD: **sine**
+MEANING _without_ (takes the ablative case)
+
+EXERCISES:
+1. **Fēmina ad tabernam sine pecūniā numquam ambulat.**
+2. **Nautae in īnsulā sine scaphā sunt.**
+3. **Nauta es.**
+4. **Puellae in īnsulā sunt sed ego in scaphā sum.**
+5. **Nauta in īnsulā est sed patriam dēsīderat.**
+6. **Poēta ad actam cotīdiē ambulat.**
+7. **Agricola patriam amat.**
+8. **Ā scholā ad actam ambulāmus.**
+9. **Terram numquam arātis sed ego cotīdiē terram arō.**
+10. **Fēmina in silvam cum puellīs ambulat.**
+
+
+# POSSESSIVES
+Possessive words show ownership of something. In English, we often show possession by using an apostrophe followed by an _s_. Consider the following examples:
+* Fred’s car
+* The nation’s flag
+* Arizona’s capital
+
+Sometimes we show possession by using the word of.
+* The peak of the mountain
+* The smell of garlic
+* The beginning of the show
+
+You must decide on your own whether to use an apostrophe or to use of to show possession.
+
+Here are a few of the most basic rules to remember when using apostrophes:
+| | Rule | Example |
+| --- | --- | --- |
+| Rule #1 | To make a noun that does not end in _s_ possessive, just add an apostrope and an _s_ | Lauren always wants to borrow Kate's book. |
+| Rule #2 | To ake a singular noun that ends in _s_ possessive, add an apostrophe and an _s_ (just like rule #1) | The class's favourite subject was Latin. |
+| Rule #3 | To make a plural noun that ends in _s_ possessive, add an apostrophe to end of the word. | Due to incresed interest in Latin, all the books' covers are starting to wear out. |
