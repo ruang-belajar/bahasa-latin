@@ -11,6 +11,7 @@
 - [Movie Quotes](text/movie-quotes.md)
 - [Nicene Creed](text/necene-creed.md)
 - [Nicene Creed - Noted](text/necene-creed-noted.md)
+- [Apostle Creed](text/apostle-creed.md)
 - [Lingua Latina Pars I - Familia Romana](text/Lingua%20Latina%20Pars%20I%20-%20Familia%20Romana.pdf)
 
 ## Buku
