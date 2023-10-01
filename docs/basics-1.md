@@ -687,7 +687,7 @@ EXERCISES:
 10. **Fēmina nōn sum**
 
 # CASES
-In Latin, the endings of nouns change according to what role or function they play in a given sentence. Any noun may have many different forms. These different forms of nouns are called cases. When we use a word as the subject of a sentence, that word is said to be in the nominative case. We also use the nominative case for predicate nominatives. When we use a word as a direct object, that word is said to be in the accusative case. We also use the accusative case with certain prepositions like ad. There are five cases in all.
+In Latin, the endings of nouns change according to what role or function they play in a given sentence. Any noun may have many different forms. These different forms of nouns are called cases. When we use a word as the subject of a sentence, that word is said to be in the nominative case. We also use the nominative case for predicate nominatives. When we use a word as a direct object, that word is said to be in the accusative case. We also use the accusative case with certain prepositions like **ad**. There are five cases in all.
 Examine the chart below.
 
 | | Singular | Plural |
@@ -927,7 +927,7 @@ Possessive words show ownership of something. In English, we often show possessi
 * The nation’s flag
 * Arizona’s capital
 
-Sometimes we show possession by using the word of.
+Sometimes we show possession by using the word _of_.
 * The peak of the mountain
 * The smell of garlic
 * The beginning of the show
