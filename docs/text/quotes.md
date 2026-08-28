@@ -1,16 +1,22 @@
-[Docendo disimus](https://www.latin-is-simple.com/en/analysis/?text=Docendo+disimus)
+> Docendo disimus
 
-> by teaching, we learn.
+💠 *by teaching, we learn*
 
----
-[Per aspera ad astra](https://www.latin-is-simple.com/en/analysis/?text=Per+aspera+ad+astra&sent_seps=.&sent_seps=%2C&sent_seps=%3B&sent_seps=%3F&sent_seps=%21)
-
-> to the stars through difficulty
+- https://www.latin-is-simple.com/en/analysis/?text=Docendo+disimus
 
 ---
+> Per aspera ad astra
 
-[Vivamus moriendum est](https://www.latin-is-simple.com/en/analysis/?text=Vivamus+moriendum+est)
+💠 *to the stars through difficulty*
 
-> Let us live — we must die
+- https://www.latin-is-simple.com/en/analysis/?text=Per+aspera+ad+astra&sent_seps=.&sent_seps=%2C&sent_seps=%3B&sent_seps=%3F&sent_seps=%21
+
+---
+
+> Vivamus moriendum est
+
+💠 *Let us live — we must die*
+
+- https://www.latin-is-simple.com/en/analysis/?text=Vivamus+moriendum+est
 
 ---
